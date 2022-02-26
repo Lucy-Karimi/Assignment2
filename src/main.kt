@@ -19,6 +19,4 @@ println(result)
     }
 println(outcome)
 }
-fun combination(){
 
-}
